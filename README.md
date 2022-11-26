@@ -1,4 +1,4 @@
-# Create a Spanish Teaching Game with Phaser 3
+# Spanish Teaching Game
 
 Zenva Course URL: https://academy.zenva.com/course/create-a-spanish-teaching-game-with-phaser-3/
 
@@ -8,7 +8,7 @@ Audio assets: https://freesound.org/ and https://audiojungle.net/
 
 Audio software: https://www.audacityteam.org/
 
-[Click here](https://frenzzy.github.io/edu-game-phaser3-spanish-teaching/public/) to play a Spanish Teaching game:
+[Click here](https://frenzzy.github.io/edu-game-phaser3-spanish-teaching/public/) to play Spanish Teaching game:
 
 <a target="_blank" href="https://frenzzy.github.io/edu-game-phaser3-spanish-teaching/public/">
 <img src="./game-screenshot.jpg" width="640" alt="Spanish Teaching Game Screenshot">
